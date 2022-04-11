@@ -1,9 +1,5 @@
 ## My naive idea to replace my📱 with my Apple ⌚️
 
-
-
-![IMG_3135.HEIC.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1649698613105/25rUuaT0v.jpg)
-
 Last Thursday, I had [an idea](https://twitter.com/aubreypwd/status/1476226463003131904?s=20) I was surprised I hadn't had before. The idea was _could I replace my iPhone with an Apple Watch?_ I already own the SE model Apple ⌚️, and I find my iPhone to be extremely distracting to keep around. I especially get sucked into apps that deliver content you don't ask for and loath anything that resembles reels, tiktoks, or YouTube stories. I just can't stand those kinds of apps and how they suck you in. Kind of hard to do on a ⌚️ screen though! Right!?
 
 I'm not sure why this didn't dawn on me earlier, but when it did, I set out to use just my ⌚️ for the weekend (plus Thursday & Friday) as a test. 
