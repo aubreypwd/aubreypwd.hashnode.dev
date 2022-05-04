@@ -1,7 +1,7 @@
 ## Pixelmator Template for Rounded Corner Wallpaper for iPhone SE 2
 
 
-I may hate the Notch, but I really love the new MacBook Pro rounded corners. I do it on my desktop:
+I may hate the Notch, but I really love the new MacBook Pro rounded corners. I do it on my Desktop:
 
 ![IMG_3199.HEIC.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1651676664261/D-FKto0Od.jpg align="left")
 
