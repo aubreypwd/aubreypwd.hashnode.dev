@@ -1,5 +1,8 @@
 ## In Process.php line 441: The process has been signaled with signal "6" when running composer on Mac
 
+Note, this post is also posted on [dev.to](https://dev.to/aubreypwd/in-processphp-line-441-the-process-has-been-signaled-with-signal-6-when-running-composer-on-mac-5b62) where I am primarily writing right now!
+
+----------
 
 ![CleanShot 2022-04-20 at 10.29.02@2x.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1650472147900/8Udoy1bou.jpg)
 
