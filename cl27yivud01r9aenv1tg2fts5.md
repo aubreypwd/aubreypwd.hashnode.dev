@@ -1,5 +1,9 @@
 ## How to fix Mail.app on Mac taking long time to load
 
+Note, this post is also over on [dev.to](https://dev.to/aubreypwd/how-to-fix-mailapp-on-mac-taking-long-time-to-load-272p)
+
+----------
+
 The answer is [here](https://apple.stackexchange.com/questions/138537/how-can-i-delete-my-mail-app-and-re-install-it), but I wanted to post with something that would catch Google searches, since _none_ of mine today worked until I was trying to delete `Mail.app` all-together to re-install it (which you can't really do).
 
 ----------
