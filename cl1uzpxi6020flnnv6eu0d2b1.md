@@ -1,5 +1,9 @@
 ## WP-CLI LocalWP without “Open Site Shell” (redux)
 
+Note, this post is also posted over at [dev.to](https://dev.to/aubreypwd/wp-cli-localwp-without-open-site-shell-redux-k7e)
+
+----------
+
 This is going to be short (*I've been meaning to write it for a while*), **but first go read [this post](https://salferrarello.com/wp-cli-local-by-flywheel-without-ssh/) by my good friend Sal Ferrarello as a precursor to this one**, then come back and read this.
 
 ----------
