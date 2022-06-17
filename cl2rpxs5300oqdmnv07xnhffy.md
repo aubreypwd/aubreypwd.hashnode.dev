@@ -1,6 +1,10 @@
 ## Pixelmator Template for Rounded Corner Wallpaper for iPhone SE 2
 
 
+This post is also over at [dev.to](https://dev.to/aubreypwd/pixelmator-template-for-rounded-corner-wallpaper-for-iphone-se-2-6a6) where I am posting more often now.
+
+------------
+
 I may hate the Notch, but I really love the new MacBook Pro rounded corners. I do it on my Desktop:
 
 ![IMG_3199.HEIC.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1651676664261/D-FKto0Od.jpg align="left")
